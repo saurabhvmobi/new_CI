@@ -417,6 +417,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Vmoksha.CI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -428,6 +429,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Vmoksha.CI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
@@ -498,6 +500,7 @@
 				DA21E8D01C90464D00D87296 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DA21E8D11C90464D00D87296 /* Build configuration list for PBXNativeTarget "CITests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +509,7 @@
 				DA21E8D31C90464D00D87296 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DA21E8D41C90464D00D87296 /* Build configuration list for PBXNativeTarget "CIUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +518,7 @@
 				DA21E8D61C90464D00D87296 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
